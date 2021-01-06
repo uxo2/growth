@@ -8,7 +8,7 @@
     "lint": "eslint --ext .jsx,.js --fix ./src"
   },
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^0.21.1",
     "events": "^1.1.1",
     "highlightjs": "^9.10.0",
     "htmlparser2-without-node-native": "^3.9.0",
